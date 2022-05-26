@@ -1,8 +1,4 @@
 b1_alt_id,staff_name,rec_ful_nam,relation_seq_id,sd_app_dd,sd_pro_des,sd_stp_num,sd_note,sd_app_des,r1_process_code,wf_task,sd_hours_spent,sd_comment,user_name,user_first_last,time_log_seq,log_date,total_minutes,entry_rate,entry_cost,entity_id,Entity_Step_Num,Entity_Relation_Seq,LENGTH,POSITION,notation
-20110255CWP,Amnon Ben-Pazi,ABENPAZI,13276,5/16/2022,Analysis,3,,Note,PLN_CWP,Analysis,2,revise doc,,,,,,,,,,,,,
-2014-001583GEN,Bridget Hicks,BHICKS,13186,5/16/2022,Analysis,3,,Note,PLN_GEN,Analysis,3,"sb 9, sb330, inclusionary fee increase, shelters",,,,,,,,,,,,,
-2022-004522COA,Lorabelle Cook,LCOOK,13224,5/16/2022,Application Intake,13,,Application Accepted,PLN_ENT,Application Intake,1,COA record creation; upload documents; project routed to planner; correspondence with applicant,,,,,,,,,,,,,
-2016-007983MCM,Alex Westhoff,AWESTHOF,18883,5/17/2022,Monitoring,1,,Monitoring Mitigation Measures,PLN_PRJ_MCM,Monitoring,0.25,preservation review,,,,,,,,,,,,,
 2014-001583GEN,Bridget Hicks,BHICKS,13186,5/17/2022,Analysis,3,,Note,PLN_GEN,Analysis,3,implementation,,,,,,,,,,,,,
 2019-022830AHB,Christopher May,CMAY,13224,5/17/2022,On Hold,19,,Remove Hold,PLN_ENT,On Hold,1.5,"reviewed/edited draft Regulatory Agreement, email correspondence with project sponsor and City Attorney",,,,,,,,,,,,,
 2020-009915PRJ,Jeffrey Horn,JHORN,13231,5/17/2022,Project,1,,Under Review,PLN_PRJ,Project,0.5,Update emails to neighbors,,,,,,,,,,,,,

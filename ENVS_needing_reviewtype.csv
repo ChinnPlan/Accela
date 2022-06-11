@@ -1,6 +1,4 @@
 ENV ID,File Date,Category,Review Type,childRecords
-2014-003153ENV,8/18/2017,,,2014-003153APL-02
-2016-001273ENV,8/21/2017,,,2016-001273APL-02
 2016-004598ENV,4/13/2017,EEA,Initial Study,2016-004598EEA
 2016-005406ENV,1/19/2017,ECD,Community Plan-Determination,2016-005406ECD2016-005406ECE
 2016-005406ENV,,ECE,Community Plan-Exemption/Exclusion,
@@ -33,12 +31,10 @@ ENV ID,File Date,Category,Review Type,childRecords
 2017-004921ENV,,ECE,Community Plan-Exemption/Exclusion,
 2017-005214ENV,8/31/2017,ECD,Community Plan-Determination,2017-005214ECD
 2017-005478ENV,5/19/2017,ECD,Community Plan-Determination,2017-005478ECD
-2017-007057ENV,6/8/2017,,,
 2017-008051ENV,6/23/2017,ECD,Community Plan-Determination,2017-008051ECD2017-008051EEA2017-008051EIR
 2017-008051ENV,,EEA,Initial Study,
 2017-008051ENV,,EIR,Environmental Impact Report,30 van ness
 2017-009510ENV,6/29/2018,EEC,Categorical Exemption-Stamp,2017-009510EEC
-2017-009683ENV,7/31/2017,,,
 2017-011465ENV,8/31/2017,EIA,EIR Addendum,2017-011465EIA2017-011465ETM
 2017-011474ENV,9/29/2017,ECD,Community Plan-Determination,2017-011474ECD
 2017-012151ENV,9/20/2017,ECE,Community Plan-Exemption/Exclusion,2017-012151ECD2017-012151ECE
@@ -52,11 +48,9 @@ ENV ID,File Date,Category,Review Type,childRecords
 2017-013741ENV,11/17/2017,ECD,Community Plan-Determination,2017-013741ECD
 2017-013929ENV,3/8/2018,EEC,Categorical Exemption-Class 32,2017-013929EEC
 2017-014417ENV,7/25/2018,EEC,Categorical Exemption-Determination of Historic Resource Impact,2017-014417EEC
-2017-014586ENV,11/1/2017,,,
 2017-014685ENV,10/30/2017,EEC,Categorical Exemption-Determination of Historic Resource Impact,2017-014685EEC
 2017-014833ENV,11/27/2017,ETR,Transportation Impact Study,2017-014833ETR2017-014833EEA2017-014833EIR
 2017-014833ENV,,EEA,Initial Study,
-2017-014833ENV,,EIR,,469 stevenson (Environmental Impact Report)
 2017-014925ENV,11/21/2017,EEC,Categorical Exemption-Stamp,2017-014925EEC
 2017-015039ENV,3/14/2018,ECE,Community Plan-Exemption/Exclusion,2017-015039APL2017-015039ECE2017-015039ECD
 2017-015039ENV,,ECD,Community Plan-Determination,
@@ -91,15 +85,12 @@ ENV ID,File Date,Category,Review Type,childRecords
 2018-008863ENV,8/23/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-008863EEC
 2018-009380ENV,7/10/2018,EEC,Categorical Exemption-Determination of Historic Resource Impact,2018-009380EEC
 2018-009426ENV,7/10/2018,EEC,Categorical Exemption-Stamp,2018-009426EEC
-2018-009557ENV,7/12/2018,,,
 2018-009619ENV,7/12/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-009619EEC
-2018-009700ENV,7/20/2018,,,
 2018-010062ENV,7/24/2018,EEC,Categorical Exemption-Determination of Historic Resource Impact,2018-010062EEC
 2018-010178ENV,7/26/2018,EEC,Categorical Exemption-Determination of Historic Resource Impact,2018-010178EEC
 2018-010581ENV,8/2/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-010581EEC
 2018-010781ENV,8/6/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-010781EEC
 2018-010844ENV,8/7/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-010844EEC
-2018-010953ENV,8/9/2018,,,
 2018-010960ENV,8/8/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-010960EEC
 2018-010975ENV,8/28/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-010975EEC
 2018-011718ENV,8/28/2018,EEC,Categorical Exemption-Determination of Historic Resource Impact,2018-011718EEC
@@ -107,16 +98,12 @@ ENV ID,File Date,Category,Review Type,childRecords
 2018-011904ENV,8/30/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-011904EEC
 2018-011928ENV,8/31/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-011928EEC
 2018-011958ENV,8/31/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-011958EEC
-2018-011962ENV,8/31/2018,,,
 2018-011991ENV,8/31/2018,EEC,Categorical Exemption-Stamp,2018-011991EEC
 2018-012070ENV,8/31/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-012070EEC
 2018-012237ENV,9/3/2018,EEC,Categorical Exemption-Determination of Historic Resource Impact,2018-012237EEC
 2018-012427ENV,9/12/2018,EEC,Categorical Exemption-Stamp,2018-012427EEC
-2018-012501ENV,9/12/2018,,,
 2018-012642ENV,9/14/2018,EEC,Categorical Exemption-Determination of Historic Resource Impact,2018-012642EEC
-2018-012648ENV,9/14/2018,,,2018-012648APL2018-012648EEC
 2018-012820ENV,9/19/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-012820EEC
-2018-012925ENV,9/20/2018,,,
 2018-013031ENV,9/21/2018,EEC,Categorical Exemption-Stamp,2018-013031EEC
 2018-013044ENV,9/7/2018,EEC,Categorical Exemption-Stamp,2018-013044EEC
 2018-013133ENV,9/20/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-013133EEC
@@ -129,13 +116,8 @@ ENV ID,File Date,Category,Review Type,childRecords
 2018-013879ENV,10/16/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-013879EEC
 2018-014036ENV,10/18/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-014036EEC
 2018-014196ENV,10/18/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-014196EEC
-2018-014415ENV,10/23/2018,,,
-2018-014536ENV,10/25/2018,,,
 2018-014668ENV,10/26/2018,EEC,Categorical Exemption-Determination of Historic Resource,2018-014668EEC
 2018-015271ENV,11/7/2018,EEC,Categorical Exemption-Stamp,2018-015271EEC
 2019-001580ENV,3/15/2019,EEC,Categorical Exemption-Stamp,2019-001580EEC
 2019-001580ENV,,ECD,Community Plan-Determination,
 2019-004552ENV,4/1/2019,EEC,Categorical Exemption-Determination of Historic Resource,2019-004552EEC
-2019-016230ENV,9/4/2019,,,2019-016230ETM (Environmental Impact Report)
-2020-003527ENV,3/12/2020,,,2020-003527ETM (Public Project Exemption)
-2020-004535ENV,4/14/2020,,,
